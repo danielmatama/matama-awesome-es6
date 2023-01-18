@@ -25,6 +25,6 @@ const navSection = () => {
     addNew.classList.add('hide');
     list.classList.add('hide');
   });
-}
+};
 
 export default navSection;
