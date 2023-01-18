@@ -70,7 +70,7 @@ In this project, I restructured my Awesome books app code, to make it more organ
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://danielmatama.github.io/matama-awesome-es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
